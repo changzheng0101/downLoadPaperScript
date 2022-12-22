@@ -30,7 +30,7 @@
 
 https://citation-finder.vercel.app/
 
-![image-20210925195142619](C:\Users\微笑\AppData\Roaming\Typora\typora-user-images\image-20210925195142619.png)
+
 
 之后进行搜索。
 
@@ -38,7 +38,6 @@ https://citation-finder.vercel.app/
 
 点击下载citations.ris，并且将该文件放到工作目录下，最后的结果看起来会类似于这个：
 
-![image-20210925195310897](C:\Users\微笑\AppData\Roaming\Typora\typora-user-images\image-20210925195310897.png)
 
 
 
