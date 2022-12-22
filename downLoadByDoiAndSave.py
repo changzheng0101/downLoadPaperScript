@@ -4,6 +4,7 @@ import urllib.request
 import urllib.error
 from bs4 import BeautifulSoup
 import re
+import os
 
 
 # 根据dio号和下载到文件名为file_name的pdf，输出路径在output下
@@ -22,7 +23,10 @@ def parseHtml(html, file_name):
         pdfUrl = re.findall(rePdfUrl, str(t_list[0]))[0]
         return pdfUrl
     except:
-        print("paper-->" + file_name[0:4] + " not found!")
+        print("paper-->" + file_name + " not found!")
+        with open("./not_found.txt", "a", encoding='utf-8') as f:
+            f.write(file_name)
+            f.write("\n")
         return None
 
 
@@ -64,6 +68,13 @@ def downLoadPdf(url, file_name):
         html = response.read()  # 这里别整utf-8转码
         # 命名不对 无法保持  有:不行
         file_name = file_name.replace(":", "")
+        path_name = file_name[:file_name.rfind("/")]
+        final_path_name = rootPath + path_name
+        if not os.path.exists(final_path_name):
+            if not os.path.exists(final_path_name[:final_path_name.rfind("/")]):
+                os.mkdir(final_path_name[:final_path_name.rfind("/")])
+            if not os.path.exists(final_path_name):
+                os.mkdir(final_path_name)
         with open(rootPath + file_name + ".pdf", "wb") as f:
             # 写文件用bytes而不是str，所以要转码
             f.write(html)
@@ -71,4 +82,4 @@ def downLoadPdf(url, file_name):
 
 #
 if __name__ == '__main__':
-    downloadByDoi("10.1109/tit.2014.2354403", "test")
+    downloadByDoi("10.1109/tit.2014.2354403", "test/gg")

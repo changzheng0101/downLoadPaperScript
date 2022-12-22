@@ -1,0 +1,190 @@
+Integrated Sensing and Communications: Towards Dual-functional Wireless Networks for 6G and Beyond.
+Integrating Sensing and Communications for Ubiquitous IoT: Applications, Trends and Challenges.
+Joint Radar and Communication Design: Applications, State-of-the-Art, and the Road Ahead.
+Waveform Design and Signal Processing Aspects for Fusion of Wireless Communications and Radar Sensing.
+Dual-Function Radar Communication Systems: A Solution to the Spectrum Congestion Problem.
+Radar-Communications Convergence: Coexistence, Cooperation, and Co-Design.
+An Overview of Signal Processing Techniques for Joint Communication and Radar Sensing.
+Toward Millimeter-Wave Joint Radar Communications: A Signal Processing Perspective.
+Joint Radar-Communications Strategies for Autonomous Vehicles Combining Two Key Automotive Technologies.
+Signaling Strategies for Dual-function Radar Communications: An Overview.
+Radar and Communication Coexistence: An Overview: A Review of Recent Methods.
+MIMO Radar for Advanced Driver-Assistance Systems and Autonomous Driving: Advantages and Challenges.
+Survey of RF Communications and Sensing Convergence Research.
+Enabling Joint Communication and Radio Sensing in Mobile Networks--A Survey.
+A Tutorial on Joint Radar and Communication Transmission for Vehicular Networks - Part I, II, and III.
+Perceptive Mobile Network: Cellular Networks With Radio Vision via Joint Communication and Radar Sensing.
+Leveraging Sensing at the Infrastructure for mmWave Communication.
+Internet of Radars: Sensing versus Sending with Joint Radar-Communications.
+Full Duplex Radio/ Radar Technology: The Enabler for Advanced Joint Communication and Sensing.
+Communications and Sensing: An Opportunity for Automotive Systems.
+WiFi Sensing with Channel State Information: A Survey.
+Wireless Sensing for Human Activity: A Survey.
+Future Millimeter-Wave Indoor Systems: A Blueprint for Joint Communication and Sensing.
+Joint Design of Sensing and Communication Systems for Smart Homes.
+Device-Free Wireless Sensing: Challenges, Opportunities, and Applications.
+Joint State Sensing and Communication: Optimal Tradeoff for a Memoryless Case.
+Joint Sensing and Communication over Memoryless Broadcast Channels.
+A Survey on Fundamental Limits of Integrated Sensing and Communication.
+Joint Transmission and State Estimation: A Constrained Channel Coding Approach.
+Inner Bounds on Performance of Radar and Communications Co-Existence.
+On the Capacity of the AWGN Channel With Additive Radar Interference.
+Performance Gains From Cooperative MIMO Radar and MIMO Communication Systems.
+A Perspective on Degrees of Freedom for Radar in Radar-Communication Interference Channel.
+Performance Tradeoffs of Joint Radar-Communication Networks.
+Analysis of An LTE Waveform for Radar Applications.
+Performance Tradeoff in a Unified Passive Radar and Communications System.
+Massive MIMO Radar for Target Detection.
+The Shannon Channel Capacity of A Radar System.
+IEEE 802.11ad-Based Radar: An Approach to Joint Vehicular Communication-Radar System.
+Full-Duplex OFDM Radar With LTE and 5G NR Waveforms: Challenges, Solutions, and Measurements.
+Optimized Waveforms for 5G–6G Communication with Sensing: Theory, Simulations and Experiments.
+LoRadar: Enabling Concurrent Radar Sensing and LoRa Communication.
+Uplink Sensing in Perceptive Mobile Networks with Asynchronous Transceivers.
+A mmWave Automotive Joint Radar-Communications System.
+Multifunctional Transceiver for Future Radar Sensing and Radio Communicating Data-Fusion Platform.
+Transmit Sequence Design for Dual-Function Radar-Communication System With One-Bit DACs.
+A Dual-Functional Massive MIMO OFDM Communication and Radar Transmitter Architecture.
+Hybrid Beamforming for Multi-carrier Dual-Function Radar-Communication System.
+Multifunctional Transceiver for Future Intelligent Transportation Systems.
+RF Front-End Challenges for Joint Communication and Radar Sensing.
+Leveraging Sensing at the Infrastructure for mmWave Communication.
+Framework for a Perceptive Mobile Network Using Joint Communication and Radar Sensing.
+Radar-assisted Predictive Beamforming for Vehicular Links: Communication Served by Sensing.
+Bayesian Predictive Beamforming for Vehicular Networks: A Low-Overhead Joint Radar-Communication Approach.
+Passive Radar at the Roadside Unit to Configure Millimeter Wave Vehicle-to-Infrastructure Links.
+Toward Environment-Aware 6G Communications via Channel Knowledge Map.
+Radar Aided Beam Alignment in MmWave V2I Communications Supporting Antenna Diversity.
+MU-MIMO Communications With MIMO Radar: From Co-Existence to Joint Transmission.
+Mutual Information based Radar Waveform Design for Joint Radar and Cellular Communication Systems.
+Joint Subcarrier Assignment and Power Allocation Strategy for Integrated Radar and Communications System Based on Power Minimization.
+Power Allocation and Co-Design of Multicarrier Communication and Radar Systems for Spectral Coexistence.
+Radar Waveform Optimization for Target Parameter Estimation in Cooperative Radar-Communications Systems.
+Multicarrier Radar-communications Waveform Design for RF Convergence and Coexistence.
+On Mutual Interference Cancellation in a MIMO OFDM Multiuser Radar-Communication Network.
+Constrained Utility Maximization in Dual-Functional Radar-Communication Multi-UAV Networks.
+Distributed Dual-Function Radar-Communication MIMO System with Optimized Resource Allocation.
+Low Probability of Intercept-Based Optimal Power Allocation Scheme for an Integrated Multistatic Radar and Communication System.
+Resource Allocation for a Wireless Powered Integrated Radar and Communication System.
+Bandwidth Sharing and Scheduling for Multimodal Radar with Communications and Tracking.
+Dual-Function Radar-Communications: Information Embedding Using Sidelobe Control and Waveform Diversity.
+Simultaneous Radar and Communications Emissions from a Common Aperture, Part I,II.
+MAJoRCom: A Dual-Function Radar Communication System Using Index Modulation.
+Waveform Design and Accurate Channel Estimation for Frequency-Hopping MIMO Radar-Based Communications.
+Intrapulse Radar-Embedded Communications.
+Intrapulse Radar-embedded Communications Via Multiobjective Optimization.
+A Novel Radar Waveform Compatible with Communication.
+Spatial Modulation for Joint Radar-Communications Systems: Design, Analysis, and Hardware Prototype.
+Enabling Communication via Automotive Radars: An Adaptive Joint Waveform Design Approach.
+Reliable Frequency-Hopping MIMO Radar-based Communications with Multi-Antenna Receiver.
+Fusion of radar sensing and wireless communications by embedding communication signals into the radar transmit waveform.
+Opportunistic Sharing Between Rotating Radar and Cellular.
+Communications-Inspired Sensing: a Case Study on Waveform Design.
+Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.
+Signal Processing for Passive Radar Using OFDM Waveforms .
+Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.
+Toward Dual-functional Radar-Communication Systems: Optimal Waveform Design.
+On the Effectiveness of OTFS for Joint Radar Parameter Estimation and Communication.
+Multibeam for Joint Communication and Radar Sensing Using Steerable Analog Antenna Arrays.
+Joint Transmit Beamforming for Multiuser MIMO Communications and MIMO Radar.
+Adaptive Virtual Waveform Design for Millimeter-Wave Joint Communication–Radar.
+Adaptive OFDM Integrated Radar and Communications Waveform Design Based on Information Theory.
+Spatio-Temporal Power Optimization for MIMO Joint Communication and Radio Sensing Systems with Training Overhead.
+On Unified Vehicular Communications and Radar Sensing in Millimeter-Wave and Low Terahertz Bands.
+Dual-Use Signal Design for Radar and Communication via Ambiguity Function Sidelobe Control.
+Joint MIMO Communication and MIMO Radar Under Different Practical Waveform Constraints.
+Constrained Utility Maximization in Dual-Functional Radar-Communication Multi-UAV Networks.
+Joint Radar-Communication Waveform Designs Using Signals From Multiplexed Users.
+Low-Complexity Beamformer Design for Joint Radar and Communications Systems.
+Joint Beamforming Design for Extended Target Estimation and Multiuser Communication.
+iRDRC: An Intelligent Real-time Dual-functional Radar-Communication System for Automotive Vehicles.
+Joint Radar-Communication With Cyclic Prefixed Single Carrier Waveforms.
+Constrained Waveform Design for Dual-Functional MIMO Radar-Communication System.
+Integrated Radar and Communication Waveform Design Based on a Shared Array.
+Co-design of Joint Radar and Communications Systems utilizing Frequency Hopping Code Diversity.
+Dual-Functional Radar Waveforms without Remodulation.
+Optimization and Quantization of Multibeam Beamforming Vector for Joint Communication and Radio Sensing.
+Joint Radar-Communications Co-Use Waveform Design Using Optimized Phase Perturbation.
+Dual-Function Radar-Communication System Design Via Sidelobe Manipulation Based On FDA Butler Matrix.
+Multibeam for Joint Communication and Radar Sensing Using Steerable Analog Antenna Arrays.
+Dual-Function MIMO Radar Communications System Design Via Sparse Array Optimization.
+Time-Modulated FD-MIMO Array for Integrated Radar and Communication Systems.
+Evolution of Netted Radar Systems.
+Multistatic Radar Placement Optimization for Cooperative Radar-Communication Systems.
+Stochastic Geometry Methods for Modeling Automotive Radar Interference.
+IEEE 802.22 Passive Radars: Multistatic Detection and Velocity Profiler.
+A Neighbor Discovery Algorithm in Network of Radar and Communication Integrated System.
+Detection in Passive MIMO Radar Networks.
+Wireless sensor networks: a survey. Computer networks.
+Fundamental Limits of Wideband Localization— Part I, II.
+RadChat: Spectrum Sharing for Automotive Radar Interference Mitigation.
+Sensing and Communication Co-Design for Status Update in Multiaccess Wireless Networks.
+Optimum Co-Design for Spectrum Sharing between Matrix Completion Based MIMO Radars and a MIMO Communication System.
+Joint Design of Overlaid Communication Systems and Pulsed Radars.
+MIMO Radar and Cellular Coexistence: A Power-Efficient Approach Enabled by Interference Exploitation.
+Cognitive Radar: A Way of the Future.
+Radar Spectrum Engineering and Management: Technical and Regulatory Issues.
+Co-Design for Overlaid MIMO Radar and Downlink MISO Communication Systems via Cramér–Rao Bound Minimization.
+Joint Transmit Designs for Coexistence of MIMO Wireless Communications and Sparse Sensing Radars in Clutter.
+Joint System Design for Coexistence of MIMO Radar and MIMO Communication.
+Opportunistic Sharing Between Rotating Radar and Cellular.
+Mutual Information based Radar Waveform Design for Joint Radar and Cellular Communication Systems.
+Spectral Coexistence of MIMO Radar and MIMO Cellular System.
+Adaptive Interference Removal for Uncoordinated Radar/Communication Coexistence.
+Joint Design of Surveillance Radar and MIMO Communication in Cluttered Environments.
+Interference Alignment Based Precoder-Decoder Design for Radar Communication Co-existence.
+Information Theoretic Approach for Waveform Design in Coexisting MIMO Radar and MIMO Communications.
+Multi-constraint Spectral Co-design for Colocated MIMO Radar and MIMO Communications.
+Communications and Radar Coexistence in the Massive MIMO Regime: Uplink Analysis.
+Interference Removal for Radar/Communication Co-Existence: The Random Scattering Case.
+Power Allocation and Co-Design of Multicarrier Communication and Radar Systems for Spectral Coexistence.
+Integrated Waveform for a Joint Radar-Communication System With High-Speed Transmission.
+Deep Learning Constellation Design for the AWGN Channel with Additive Radar Interference.
+Coexistence of MIMO Radar and FD MIMO Cellular Systems With QoS Considerations.
+Opportunistic Radar in IEEE 802.11ad Networks.
+Transmit Designs for Spectral Coexistence of MIMO Radar and MIMO Communication Systems.
+Robust MIMO Beamforming for Cellular and Radar Coexistence.
+Spectral Coexistence of MIMO Radar and MIMO Cellular System.
+Spectrum Sharing between a Surveillance Radar and Secondary Wi-Fi Networks.
+On the Co-Existence of TD-LTE and Radar Over 3.5 GHz Band: An Experimental Study.
+Spectrum Sharing of Radar and Wi-Fi Networks: The Sensing/Throughput Tradeoff.
+MIMO OFDM Radar with Communication and Interference Cancellation Features.
+Radar Waveform Design in a Spectrally Crowded Environment Via Nonconvex Quadratic Optimization.
+Interference Mitigation Processing for Spectrum-Sharing Between Radar and Wireless Communications Systems.
+We Can Hear You with Wi-Fi!.
+WiFall: Device-Free Fall Detection by Wireless Networks.
+Recognizing Keystrokes Using WiFi Devices.
+Device-Free Human Activity Recognition Using Commercial WiFi Devices.
+Toward Centimeter-Scale Human Activity Sensing with Wi-Fi Signals.
+A Survey on Behavior Recognition Using WiFi Channel State Information.
+See through Walls with WiFi!.
+Through-the-Wall Sensing of Personnel Using Passive Bistatic WiFi Radar at Standoff Distances.
+Coordinated Cognitive Risk Control for Bridging Vehicular Radar and Communication Systems.
+Environmental Monitoring by Wireless Communication Networks.
+Country-wide rainfall maps from cellular communication networks.
+Rain Rate Estimation Using Measurements From Commercial Telecommunications Links.
+Recurrent Neural Network for Rain Estimation Using Commercial Microwave Links.
+Vehicular RF Convergence: Simultaneous Radar, Communications, and PNT for Urban Air Mobility and Automotive Applications.
+Convergent Communication, Sensing and Localization in 6G Systems: An Overview of Technologies, Opportunities and Challenges.
+Integrated Sensing, Computation and Communication in B5G Cellular Internet of Things.
+Overview of Naval Multifunction RF Systems.
+The Advanced Multifunction RF Concept.
+Overview of Advanced Multifunction RF System (AMRFS).
+Assessment of Medication Self-administration using Artificial Intelligence.
+Vital-sign Monitoring and Spatial Tracking of Multiple People using a Contactless Radar-based Sensor.
+Radar Signal Processing for Sensing in Assisted Living: The Challenges Associated With Real-Time Implementation of Emerging Algorithms.
+Exploiting WiFi Channel State Information for Residential Healthcare Informatics.
+Radar Signal Processing for Elderly Fall Detection: The Future for In-home Monitoring.
+Noncontact Vital Sign Detection With UAV-Borne Radars: An Overview of Recent Advances.
+First Demonstration of Joint Wireless Communication and High-Resolution SAR Imaging Using Airborne MIMO Radar System.
+Toward Environment-Aware 6G Communications via Channel Knowledge Map.
+Millimeter-wave Mobile Sensing and Environment Mapping: Models, Algorithms and Validation.
+Secure Radar-Communication Systems With Malicious Targets: Integrating Radar, Communications and Jamming Functionalities.
+Secrecy Rate Optimizations for MIMO Communication Radar.
+Intrapulse Radar-Embedded Communications.
+Intrapulse Radar-embedded Communications Via Multiobjective Optimization.
+On Radar Privacy in Shared Spectrum Scenarios.
+JCR70: A Low-Complexity Millimeter-Wave Proof-of-Concept Platform for A Fully-Digital MIMO Joint Communication-Radar.
+Simultaneous Radar and Communications Emissions from a Common Aperture, Part I,II.
+First Demonstration of Joint Wireless Communication and High-Resolution SAR Imaging Using Airborne MIMO Radar System.
+Sensing and Communication Integrated System for Autonomous Driving Vehicles.

@@ -22,7 +22,7 @@ regex = r"DO  - ([\w|.].*)"
 def getDioList(file):
     # 可以匹配到所有的dio号
     # 测试完成
-    with open(file, 'r') as f:
+    with open(file, 'r',encoding='utf-8') as f:
         content = f.read()
     dioList = re.findall(regex, content)
     return dioList
