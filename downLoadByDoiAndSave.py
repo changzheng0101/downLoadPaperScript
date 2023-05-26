@@ -66,15 +66,7 @@ def downLoadPdf(url, file_name):
                 DoiRequest = urllib.request.Request("http:" + url, headers=headers)
                 response = urllib.request.urlopen(DoiRequest)
         html = response.read()  # 这里别整utf-8转码
-        # 命名不对 无法保持  有:不行
         file_name = file_name.replace(":", "")
-        path_name = file_name[:file_name.rfind("/")]
-        final_path_name = rootPath + path_name
-        if not os.path.exists(final_path_name):
-            if not os.path.exists(final_path_name[:final_path_name.rfind("/")]):
-                os.mkdir(final_path_name[:final_path_name.rfind("/")])
-            if not os.path.exists(final_path_name):
-                os.mkdir(final_path_name)
         with open(rootPath + file_name + ".pdf", "wb") as f:
             # 写文件用bytes而不是str，所以要转码
             f.write(html)
@@ -82,4 +74,4 @@ def downLoadPdf(url, file_name):
 
 #
 if __name__ == '__main__':
-    downloadByDoi("10.1109/tit.2014.2354403", "test/gg")
+    downloadByDoi("10.1109/tit.2014.2354403", "test/download")

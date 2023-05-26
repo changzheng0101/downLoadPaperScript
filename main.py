@@ -29,9 +29,6 @@ def downLoadFile(dio_list, file_name_list):
 
 if __name__ == '__main__':
     # 主文件
-    nameList = getPaperTitleTxt.getFileName("./titleOutput.txt")
+    nameList = getPaperTitleTxt.getFileName("txt/titleOutput.txt")
     dioList = getDioList.getDioList("./citations.ris")
-    # downLoadByDoiAndSave.downloadByDoi(dioList[7], nameList[7])
-    print(len(dioList))
-    print(len(nameList))
-    # downLoadFile(dioList, nameList)
+    downLoadFile(dioList, nameList)

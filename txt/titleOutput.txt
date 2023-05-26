@@ -1,0 +1,10 @@
+[1]High-Density Resource-Restricted PulseBased IoT Networks
+[2]Evaluationand optimization of asynchronous pulse code multiple access
+[3]Performance evaluation of css-apcmaby experiments using 500 transmitters
+[4]Challenges: Communication through silencein wireless sensor networks
+[5]Random walk based search forimproved 5 pulse apcma codes
+[6]Performance evaluation of pulse-basedmultiplexing protocol implemented on massive IoT devices
+[7]An Open-Source LoRa Physical Layer Prototype on GNURadio
+[8]SX1278 LoRa Transceiver Datasheet
+[9]An ook chirp spread spectrum backscatter communication system for wireless power transfer applications
+[10]Range and coexistence analysisof long range unlicensed communication

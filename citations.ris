@@ -1,701 +1,165 @@
 TY  - JOUR
-DO  - 10.1109/49.761034
-UR  - http://dx.doi.org/10.1109/49.761034
-TI  - Analog-to-digital converter survey and analysis
-T2  - IEEE Journal on Selected Areas in Communications
-AU  - Walden, R.H.
-PY  - 1999
-DA  - 1999/04
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 539-550
-IS  - 4
-VL  - 17
-SN  - 0733-8716
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tcomm.2009.12.080559
-UR  - http://dx.doi.org/10.1109/tcomm.2009.12.080559
-TI  - On the limits of communication with low-precision analog-to-digital conversion at the receiver
-T2  - IEEE Transactions on Communications
-AU  - Singh, Jaspreet
-AU  - Dabeer, Onkar
-AU  - Madhow, Upamanyu
-PY  - 2009
-DA  - 2009/12
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 3629-3639
-IS  - 12
-VL  - 57
-SN  - 0090-6778
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tit.2014.2354403
-UR  - http://dx.doi.org/10.1109/tit.2014.2354403
-TI  - Massive MIMO Systems With Non-Ideal Hardware: Energy Efficiency, Estimation, and Capacity Limits
-T2  - IEEE Transactions on Information Theory
-AU  - Bjornson, Emil
-AU  - Hoydis, Jakob
-AU  - Kountouris, Marios
-AU  - Debbah, Merouane
-PY  - 2014
-DA  - 2014/11
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 7112-7139
-IS  - 11
-VL  - 60
-SN  - 0018-9448
-SN  - 1557-9654
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tcomm.2015.2432761
-UR  - http://dx.doi.org/10.1109/tcomm.2015.2432761
-TI  - Impact of Residual Transmit RF Impairments on Training-Based MIMO Systems
-T2  - IEEE Transactions on Communications
-AU  - Zhang, Xinlin
-AU  - Matthaiou, Michail
-AU  - Coldrey, Mikael
-AU  - Bjornson, Emil
-PY  - 2015
-DA  - 2015/08
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2899-2911
-IS  - 8
-VL  - 63
-SN  - 0090-6778
-ER  - 
-TY  - JOUR
-DO  - 10.1109/twc.2015.2420095
-UR  - http://dx.doi.org/10.1109/twc.2015.2420095
-TI  - Massive MIMO with Non-Ideal Arbitrary Arrays: Hardware Scaling Laws and Circuit-Aware Design
-T2  - IEEE Transactions on Wireless Communications
-AU  - Bjornson, Emil
-AU  - Matthaiou, Michail
-AU  - Debbah, Merouane
-PY  - 2015
-DA  - 2015/08
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 4353-4368
-IS  - 8
-VL  - 14
-SN  - 1536-1276
-ER  - 
-TY  - JOUR
-DO  - 10.1109/twc.2014.2382098
-UR  - http://dx.doi.org/10.1109/twc.2014.2382098
-TI  - Multiuser Detection in Massive Spatial Modulation MIMO With Low-Resolution ADCs
-T2  - IEEE Transactions on Wireless Communications
-AU  - Wang, Shengchu
-AU  - Li, Yunzhou
-AU  - Wang, Jing
-PY  - 2015
-DA  - 2015/04
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2156-2168
-IS  - 4
-VL  - 14
-SN  - 1536-1276
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tsp.2015.2424193
-UR  - http://dx.doi.org/10.1109/tsp.2015.2424193
-TI  - Quantized Distributed Reception for MIMO Wireless Systems Using Spatial Multiplexing
-T2  - IEEE Transactions on Signal Processing
-AU  - Choi, Junil
-AU  - Love, David J.
-AU  - Brown, D. Richard
-AU  - Boutin, Mireille
-PY  - 2015
-DA  - 2015/07
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 3537-3548
-IS  - 13
-VL  - 63
-SN  - 1053-587X
-SN  - 1941-0476
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tsp.2020.3048232
-UR  - http://dx.doi.org/10.1109/tsp.2020.3048232
-TI  - Binary MIMO Detection via Homotopy Optimization and Its Deep Adaptation
-T2  - IEEE Transactions on Signal Processing
-AU  - Shao, Mingjie
-AU  - Ma, Wing-Kin
+DO  - 10.1109/tgcn.2021.3090044
+UR  - http://dx.doi.org/10.1109/tgcn.2021.3090044
+TI  - High-Density Resource-Restricted Pulse-Based IoT Networks
+T2  - IEEE Transactions on Green Communications and Networking
+AU  - Peper, Ferdinand
+AU  - Leibnitz, Kenji
+AU  - Tanaka, Chiemi
+AU  - Honda, Kentaro
+AU  - Hasegawa, Mikio
+AU  - Theofilis, Konstantinos
+AU  - Li, Aohan
+AU  - Wakamiya, Naoki
 PY  - 2021
+DA  - 2021/12
 PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 781-796
-VL  - 69
-SN  - 1053-587X
-SN  - 1941-0476
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/wsa.2008.4475570
-UR  - http://dx.doi.org/10.1109/wsa.2008.4475570
-TI  - Maximum likelihood detection for quantized MIMO systems
-T2  - 2008 International ITG Workshop on Smart Antennas
-AU  - Mezghani, Amine
-AU  - Khoufi, Mohamed-Seifeddine
-AU  - Nossek, Josef A.
-PY  - 2008
-DA  - 2008/02
-PB  - IEEE
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/iccworkshops49005.2020.9145094
-UR  - http://dx.doi.org/10.1109/iccworkshops49005.2020.9145094
-TI  - MIMO or SIMO for Wireless Communications with Binary-Array Receivers
-T2  - 2020 IEEE International Conference on Communications Workshops (ICC Workshops)
-AU  - Liu, Lifu
-AU  - Ma, Yi
-AU  - Tafazolli, Rahim
-PY  - 2020
-DA  - 2020/06
-PB  - IEEE
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tcomm.2016.2545666
-UR  - http://dx.doi.org/10.1109/tcomm.2016.2545666
-TI  - Near Maximum-Likelihood Detector and Channel Estimator for Uplink Multiuser Massive MIMO Systems With One-Bit ADCs
-T2  - IEEE Transactions on Communications
-AU  - Choi, Junil
-AU  - Mo, Jianhua
-AU  - Heath, Robert W.
-PY  - 2016
-DA  - 2016/05
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2005-2018
-IS  - 5
-VL  - 64
-SN  - 0090-6778
-SN  - 1558-0857
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tcomm.2017.2787565
-UR  - http://dx.doi.org/10.1109/tcomm.2017.2787565
-TI  - A Weighted Minimum Distance Decoding for Uplink Multiuser MIMO Systems With Low-Resolution ADCs
-T2  - IEEE Transactions on Communications
-AU  - Hong, Song-Nam
-AU  - Kim, Seonho
-AU  - Lee, Namyoon
-PY  - 2018
-DA  - 2018/05
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 1912-1924
-IS  - 5
-VL  - 66
-SN  - 0090-6778
-SN  - 1558-0857
-ER  - 
-TY  - JOUR
-DO  - 10.1109/twc.2018.2827028
-UR  - http://dx.doi.org/10.1109/twc.2018.2827028
-TI  - One-Bit Sphere Decoding for Uplink Massive MIMO Systems With One-Bit ADCs
-T2  - IEEE Transactions on Wireless Communications
-AU  - Jeon, Yo-Seb
-AU  - Lee, Namyoon
-AU  - Hong, Song-Nam
-AU  - Heath, Robert W.
-PY  - 2018
-DA  - 2018/07
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 4509-4521
-IS  - 7
-VL  - 17
-SN  - 1536-1276
-SN  - 1558-2248
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tsp.2015.2508786
-UR  - http://dx.doi.org/10.1109/tsp.2015.2508786
-TI  - Bayes-Optimal Joint Channel-and-Data Estimation for Massive MIMO With Low-Precision ADCs
-T2  - IEEE Transactions on Signal Processing
-AU  - Wen, Chao-Kai
-AU  - Wang, Chang-Jen
-AU  - Jin, Shi
-AU  - Wong, Kai-Kit
-AU  - Ting, Pangan
-PY  - 2016
-DA  - 2016/05
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2541-2556
-IS  - 10
-VL  - 64
-SN  - 1053-587X
-SN  - 1941-0476
-ER  - 
-TY  - JOUR
-DO  - 10.1109/jstsp.2016.2539123
-UR  - http://dx.doi.org/10.1109/jstsp.2016.2539123
-TI  - Parametric Bilinear Generalized Approximate Message Passing
-T2  - IEEE Journal of Selected Topics in Signal Processing
-AU  - Parker, Jason T.
-AU  - Schniter, Philip
-PY  - 2016
-DA  - 2016/06
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 795-808
+SP  - 1856-1868
 IS  - 4
-VL  - 10
-SN  - 1932-4553
-SN  - 1941-0484
+VL  - 5
+SN  - 2473-2400
 ER  - 
 TY  - JOUR
-DO  - 10.1109/tsp.2017.2786256
-UR  - http://dx.doi.org/10.1109/tsp.2017.2786256
-TI  - One-Bit Quantized Massive MIMO Detection Based on Variational Approximate Message Passing
-T2  - IEEE Transactions on Signal Processing
-AU  - Zhang, Zhaoyang
-AU  - Cai, Xiao
-AU  - Li, Chunguang
-AU  - Zhong, Caijun
-AU  - Dai, Huaiyu
-PY  - 2018
-DA  - 2018/05/01
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2358-2373
-IS  - 9
-VL  - 66
-SN  - 1053-587X
-SN  - 1941-0476
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/wsa.2008.4475570
-UR  - http://dx.doi.org/10.1109/wsa.2008.4475570
-TI  - Maximum likelihood detection for quantized MIMO systems
-T2  - 2008 International ITG Workshop on Smart Antennas
-AU  - Mezghani, Amine
-AU  - Khoufi, Mohamed-Seifeddine
-AU  - Nossek, Josef A.
-PY  - 2008
-DA  - 2008/02
-PB  - IEEE
+DO  - 10.1587/nolta.13.318
+UR  - http://dx.doi.org/10.1587/nolta.13.318
+TI  - Evaluation and optimization of asynchronous pulse code multiple access
+T2  - Nonlinear Theory and Its Applications, IEICE
+AU  - Wakamiya, Naoki
+AU  - Leibnitz, Kenji
+AU  - Peper, Ferdinand
+AU  - Hasegawa, Mikio
+PY  - 2022
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+SP  - 318-323
+IS  - 2
+VL  - 13
+SN  - 2185-4106
 ER  - 
 TY  - JOUR
-DO  - 10.1109/lcomm.2015.2494600
-UR  - http://dx.doi.org/10.1109/lcomm.2015.2494600
-TI  - Uplink Achievable Rate for Massive MIMO Systems With Low-Resolution ADC
-T2  - IEEE Communications Letters
-AU  - Fan, Li
-AU  - Jin, Shi
-AU  - Wen, Chao-Kai
-AU  - Zhang, Haixia
-PY  - 2015
-DA  - 2015/12
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2186-2189
-IS  - 12
-VL  - 19
-SN  - 1089-7798
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/ita.2015.7308988
-UR  - http://dx.doi.org/10.1109/ita.2015.7308988
-TI  - Low power analog-to-digital conversion in millimeter wave systems: Impact of resolution and bandwidth on performance
-T2  - 2015 Information Theory and Applications Workshop (ITA)
-AU  - Orhan, Oner
-AU  - Erkip, Elza
-AU  - Rangan, Sundeep
-PY  - 2015
-DA  - 2015/02
-PB  - IEEE
-ER  - 
-TY  - JOUR
-DO  - 10.1109/twc.2017.2661749
-UR  - http://dx.doi.org/10.1109/twc.2017.2661749
-TI  - Hybrid Architectures With Few-Bit ADC Receivers: Achievable Rates and Energy-Rate Tradeoffs
-T2  - IEEE Transactions on Wireless Communications
-AU  - Mo, Jianhua
-AU  - Alkhateeb, Ahmed
-AU  - Abu-Surra, Shadi
-AU  - Heath, Robert W.
-PY  - 2017
-DA  - 2017/04
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2274-2287
+DO  - 10.1587/comex.2022xbl0193
+UR  - http://dx.doi.org/10.1587/comex.2022xbl0193
+TI  - Performance evaluation of CSS-APCMA for massive IoT using GNU Radio/USRP
+T2  - IEICE Communications Express
+AU  - Nakamura, Atsushi
+AU  - Honda, Kentaro
+AU  - Peper, Ferdinand
+AU  - Leibnitz, Kenji
+AU  - Wakamiya, Naoki
+AU  - Hasegawa, Mikio
+PY  - 2023
+DA  - 2023/04/01
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+SP  - 120-125
 IS  - 4
-VL  - 16
-SN  - 1536-1276
-ER  - 
-TY  - JOUR
-DO  - 10.1109/lcomm.2017.2693276
-UR  - http://dx.doi.org/10.1109/lcomm.2017.2693276
-TI  - Spectral Efficiency of Massive MIMO Systems With Low-Resolution ADCs and MMSE Receiver
-T2  - IEEE Communications Letters
-AU  - Dong, Yitian
-AU  - Qiu, Ling
-PY  - 2017
-DA  - 2017/08
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 1771-1774
-IS  - 8
-VL  - 21
-SN  - 1089-7798
-ER  - 
-TY  - JOUR
-DO  - 10.1109/lcomm.2016.2535132
-UR  - http://dx.doi.org/10.1109/lcomm.2016.2535132
-TI  - On the Spectral Efficiency of Massive MIMO Systems With Low-Resolution ADCs
-T2  - IEEE Communications Letters
-AU  - Zhang, Jiayi
-AU  - Dai, Linglong
-AU  - Sun, Shengyang
-AU  - Wang, Zhaocheng
-PY  - 2016
-DA  - 2016/05
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 842-845
-IS  - 5
-VL  - 20
-SN  - 1089-7798
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/isit.2010.5513404
-UR  - http://dx.doi.org/10.1109/isit.2010.5513404
-TI  - Belief propagation based MIMO detection operating on quantized channel output
-T2  - 2010 IEEE International Symposium on Information Theory
-AU  - Mezghani, Amine
-AU  - Nossek, Josef A.
-PY  - 2010
-DA  - 2010/06
-PB  - IEEE
-ER  - 
-TY  - RPRT
-DO  - 10.2172/6257700
-UR  - http://dx.doi.org/10.2172/6257700
-TI  - The collaborative program of research in engineering science
-AU  - 
-AU  - 
-PY  - 1990
-DA  - 1990/12/01
-PB  - Office of Scientific and Technical Information (OSTI)
-ER  - 
-TY  - JOUR
-DO  - 10.1109/twc.2021.3082844
-UR  - http://dx.doi.org/10.1109/twc.2021.3082844
-TI  - Linear and Deep Neural Network-based Receivers for Massive MIMO Systems with One-Bit ADCs
-T2  - IEEE Transactions on Wireless Communications
-AU  - Nguyen, Ly V.
-AU  - Lee Swindlehurst, A.
-AU  - Nguyena, Duy H. N.
-PY  - 2021
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 1-1
-SN  - 1536-1276
-SN  - 1558-2248
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tsp.2017.2706179
-UR  - http://dx.doi.org/10.1109/tsp.2017.2706179
-TI  - Channel Estimation and Performance Analysis of One-Bit Massive MIMO Systems
-T2  - IEEE Transactions on Signal Processing
-AU  - Li, Yongzhi
-AU  - Tao, Cheng
-AU  - Seco-Granados, Gonzalo
-AU  - Mezghani, Amine
-AU  - Swindlehurst, A. Lee
-AU  - Liu, Liu
-PY  - 2017
-DA  - 2017/08/01
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 4075-4089
-IS  - 15
-VL  - 65
-SN  - 1053-587X
-SN  - 1941-0476
-ER  - 
-TY  - JOUR
-DO  - 10.1109/twc.2017.2691318
-UR  - http://dx.doi.org/10.1109/twc.2017.2691318
-TI  - Throughput Analysis of Massive MIMO Uplink With Low-Resolution ADCs
-T2  - IEEE Transactions on Wireless Communications
-AU  - Jacobsson, Sven
-AU  - Durisi, Giuseppe
-AU  - Coldrey, Mikael
-AU  - Gustavsson, Ulf
-AU  - Studer, Christoph
-PY  - 2017
-DA  - 2017/06
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 4038-4051
-IS  - 6
-VL  - 16
-SN  - 1536-1276
-SN  - 1558-2248
-ER  - 
-TY  - JOUR
-DO  - 10.1109/mcom.2018.1600731
-UR  - http://dx.doi.org/10.1109/mcom.2018.1600731
-TI  - On Low-Resolution ADCs in Practical 5G Millimeter-Wave Massive MIMO Systems
-T2  - IEEE Communications Magazine
-AU  - Zhang, Jiayi
-AU  - Dai, Linglong
-AU  - Li, Xu
-AU  - Liu, Ying
-AU  - Hanzo, Lajos
-PY  - 2018
-DA  - 2018/07
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 205-211
-IS  - 7
-VL  - 56
-SN  - 0163-6804
-SN  - 1558-1896
-ER  - 
-TY  - JOUR
-DO  - 10.1109/ojcoms.2020.3010514
-UR  - http://dx.doi.org/10.1109/ojcoms.2020.3010514
-TI  - Low-Resolution Quantization in Phase Modulated Systems: Optimum Detectors and Error Rate Analysis
-T2  - IEEE Open Journal of the Communications Society
-AU  - Gayan, Samiru
-AU  - Senanayake, Rajitha
-AU  - Inaltekin, Hazer
-AU  - Evans, Jamie
-PY  - 2020
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 1000-1021
-VL  - 1
-SN  - 2644-125X
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/iccw.2015.7247358
-UR  - http://dx.doi.org/10.1109/iccw.2015.7247358
-TI  - One-bit massive MIMO: Channel estimation and high-order modulations
-T2  - 2015 IEEE International Conference on Communication Workshop (ICCW)
-AU  - Jacobsson, Sven
-AU  - Durisi, Giuseppe
-AU  - Coldrey, Mikael
-AU  - Gustavsson, Ulf
-AU  - Studer, Christoph
-PY  - 2015
-DA  - 2015/06
-PB  - IEEE
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/cig.2010.5592653
-UR  - http://dx.doi.org/10.1109/cig.2010.5592653
-TI  - Fading channels with 1-bit output quantization: Optimal modulation, ergodic capacity and outage probability
-T2  - 2010 IEEE Information Theory Workshop
-AU  - Krone, Stefan
-AU  - Fettweis, Gerhard
-PY  - 2010
-DA  - 2010/08
-PB  - IEEE
-ER  - 
-TY  - JOUR
-DO  - 10.1109/jstsp.2018.2818063
-UR  - http://dx.doi.org/10.1109/jstsp.2018.2818063
-TI  - Bayesian Optimal Data Detector for Hybrid mmWave MIMO-OFDM Systems With Low-Resolution ADCs
-T2  - IEEE Journal of Selected Topics in Signal Processing
-AU  - He, Hengtao
-AU  - Wen, Chao-Kai
-AU  - Jin, Shi
-PY  - 2018
-DA  - 2018/06
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 469-483
-IS  - 3
 VL  - 12
-SN  - 1932-4553
-SN  - 1941-0484
+SN  - 2187-0136
+ER  - 
+TY  - CPAPER
+DO  - 10.1145/1080829.1080844
+UR  - http://dx.doi.org/10.1145/1080829.1080844
+TI  - Challenges
+T2  - Proceedings of the 11th annual international conference on Mobile computing and networking
+AU  - Zhu, Yujie
+AU  - Sivakumar, Raghupathy
+PY  - 2005
+DA  - 2005/08/28
+PB  - ACM
 ER  - 
 TY  - JOUR
-DO  - 10.1109/tcomm.2019.2892048
-UR  - http://dx.doi.org/10.1109/tcomm.2019.2892048
-TI  - Soft-Output Detection Methods for Sparse Millimeter-Wave MIMO Systems With Low-Precision ADCs
-T2  - IEEE Transactions on Communications
-AU  - Jeon, Yo-Seb
-AU  - Do, Heedong
-AU  - Hong, Song-Nam
-AU  - Lee, Namyoon
-PY  - 2019
-DA  - 2019/04
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2822-2836
+DO  - 10.1587/comex.2022xbl0193
+UR  - http://dx.doi.org/10.1587/comex.2022xbl0193
+TI  - Performance evaluation of CSS-APCMA for massive IoT using GNU Radio/USRP
+T2  - IEICE Communications Express
+AU  - Nakamura, Atsushi
+AU  - Honda, Kentaro
+AU  - Peper, Ferdinand
+AU  - Leibnitz, Kenji
+AU  - Wakamiya, Naoki
+AU  - Hasegawa, Mikio
+PY  - 2023
+DA  - 2023/04/01
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+SP  - 120-125
 IS  - 4
-VL  - 67
-SN  - 0090-6778
-SN  - 1558-0857
+VL  - 12
+SN  - 2187-0136
 ER  - 
 TY  - JOUR
-DO  - 10.1109/tsp.2015.2455527
-UR  - http://dx.doi.org/10.1109/tsp.2015.2455527
-TI  - Capacity Analysis of One-Bit Quantized MIMO Systems With Transmitter Channel State Information
-T2  - IEEE Transactions on Signal Processing
-AU  - Mo, Jianhua
-AU  - Heath, Robert W.
-PY  - 2015
-DA  - 2015/10
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 5498-5512
-IS  - 20
-VL  - 63
-SN  - 1053-587X
-SN  - 1941-0476
+DO  - 10.1587/nolta.12.726
+UR  - http://dx.doi.org/10.1587/nolta.12.726
+TI  - Performance evaluation of pulse-based multiplexing protocol implemented on massive IoT devices
+T2  - Nonlinear Theory and Its Applications, IEICE
+AU  - Tanaka, Chiemi
+AU  - Honda, Kentaro
+AU  - Li, Aohan
+AU  - Peper, Ferdinand
+AU  - Leibnitz, Kenji
+AU  - Theofilis, Konstantinos
+AU  - Wakamiya, Naoki
+AU  - Hasegawa, Mikio
+PY  - 2021
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+SP  - 726-737
+IS  - 4
+VL  - 12
+SN  - 2185-4106
 ER  - 
 TY  - CPAPER
-DO  - 10.1109/icc.2010.5501995
-UR  - http://dx.doi.org/10.1109/icc.2010.5501995
-TI  - Channel Estimation with Low-Precision Analog-to-Digital Conversion
-T2  - 2010 IEEE International Conference on Communications
-AU  - Dabeer, O.
-AU  - Madhow, U.
-PY  - 2010
-DA  - 2010/05
-PB  - IEEE
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/isit.1998.708938
-UR  - http://dx.doi.org/10.1109/isit.1998.708938
-TI  - Channel estimation with quantized observations
-T2  - Proceedings. 1998 IEEE International Symposium on Information Theory (Cat. No.98CH36252)
-AU  - Lok, T.M.
-AU  - Wei, V.K.-W.
+DO  - 10.1109/spawc48557.2020.9154273
+UR  - http://dx.doi.org/10.1109/spawc48557.2020.9154273
+TI  - An Open-Source LoRa Physical Layer Prototype on GNU Radio
+T2  - 2020 IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)
+AU  - Tapparel, Joachim
+AU  - Afisiadis, Orion
+AU  - Mayoraz, Paul
+AU  - Balatsoukas-Stimming, Alexios
+AU  - Burg, Andreas
+PY  - 2020
+DA  - 2020/05
 PB  - IEEE
 ER  - 
 TY  - JOUR
-DO  - 10.1109/tit.1960.1057548
-UR  - http://dx.doi.org/10.1109/tit.1960.1057548
-TI  - Quantizing for minimum distortion
-T2  - IEEE Transactions on Information Theory
-AU  - Max, J.
-PY  - 1960
-DA  - 1960/03
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 7-12
-IS  - 1
-VL  - 6
-SN  - 0018-9448
+DO  - 10.24912/tesla.v24i2.18463
+UR  - http://dx.doi.org/10.24912/tesla.v24i2.18463
+TI  - RANCANG BANGUN STASIUN CUACA BERBASIS WIRELESS SENSOR NETWORK DENGAN LORA SX1278
+T2  - TESLA: Jurnal Teknik Elektro
+AU  - Zulafah, Firda Aini
+AU  - Dewatama, Denda
+AU  - Siswoko, Siswoko
+PY  - 2022
+DA  - 2022/10/21
+PB  - Universitas Tarumanagara
+SP  - 116-128
+IS  - 2
+VL  - 24
+SN  - 2655-7967
+SN  - 1410-9735
 ER  - 
 TY  - JOUR
-DO  - 10.1109/82.664234
-UR  - http://dx.doi.org/10.1109/82.664234
-TI  - On the design of constant settling time AGC circuits
-T2  - IEEE Transactions on Circuits and Systems II: Analog and Digital Signal Processing
-AU  - Khoury, J.M.
-PY  - 1998
-DA  - 1998/03
+DO  - 10.1109/tmtt.2020.3041249
+UR  - http://dx.doi.org/10.1109/tmtt.2020.3041249
+TI  - An OOK Chirp Spread Spectrum Backscatter Communication System for Wireless Power Transfer Applications
+T2  - IEEE Transactions on Microwave Theory and Techniques
+AU  - Belo, Daniel
+AU  - Carvalho, Nuno Borges
+PY  - 2021
+DA  - 2021/03
 PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 283-294
+SP  - 1838-1845
 IS  - 3
-VL  - 45
-SN  - 1057-7130
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tcom.1974.1092057
-UR  - http://dx.doi.org/10.1109/tcom.1974.1092057
-TI  - Exact Dynamics of Automatic Gain Control
-T2  - IEEE Transactions on Communications
-AU  - Ohlson, J.
-PY  - 1974
-DA  - 1974/01
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 72-75
-IS  - 1
-VL  - 22
-SN  - 0096-2244
+VL  - 69
+SN  - 0018-9480
+SN  - 1557-9670
 ER  - 
 TY  - CPAPER
-DO  - 10.1109/vtc2021-spring51267.2021.9448919
-UR  - http://dx.doi.org/10.1109/vtc2021-spring51267.2021.9448919
-TI  - On the Design of Quantization Functions for Uplink Massive MIMO with Low-Resolution ADCs
-T2  - 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)
-AU  - Liu, Lifu
-AU  - Xue, Songyan
-AU  - Ma, Yi
-AU  - Yi, Na
-AU  - Tafazolli, Rahim
-PY  - 2021
-DA  - 2021/04
-PB  - IEEE
-ER  - 
-TY  - JOUR
-DO  - 10.1109/29.60086
-UR  - http://dx.doi.org/10.1109/29.60086
-TI  - The Hermite transform-theory
-T2  - IEEE Transactions on Acoustics, Speech, and Signal Processing
-AU  - Martens, J.-B.
-PY  - 1990
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 1595-1606
-IS  - 9
-VL  - 38
-SN  - 0096-3518
-ER  - 
-TY  - JOUR
-DO  - 10.1109/tcomm.2016.2558151
-UR  - http://dx.doi.org/10.1109/tcomm.2016.2558151
-TI  - Quantized Massive MU-MIMO-OFDM Uplink
-T2  - IEEE Transactions on Communications
-AU  - Studer, Christoph
-AU  - Durisi, Giuseppe
+DO  - 10.1109/ict.2016.7500415
+UR  - http://dx.doi.org/10.1109/ict.2016.7500415
+TI  - Range and coexistence analysis of long range unlicensed communication
+T2  - 2016 23rd International Conference on Telecommunications (ICT)
+AU  - Reynders, Brecht
+AU  - Meert, Wannes
+AU  - Pollin, Sofie
 PY  - 2016
-DA  - 2016/06
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 2387-2399
-IS  - 6
-VL  - 64
-SN  - 0090-6778
-ER  - 
-TY  - JOUR
-DO  - 10.1103/revmodphys.70.223
-UR  - http://dx.doi.org/10.1103/revmodphys.70.223
-TI  - Stochastic resonance
-T2  - Reviews of Modern Physics
-AU  - Gammaitoni, Luca
-AU  - Hänggi, Peter
-AU  - Jung, Peter
-AU  - Marchesoni, Fabio
-PY  - 1998
-DA  - 1998/01/01
-PB  - American Physical Society (APS)
-SP  - 223-287
-IS  - 1
-VL  - 70
-SN  - 0034-6861
-SN  - 1539-0756
-ER  - 
-TY  - CPAPER
-DO  - 10.1109/gcwkshps45667.2019.9024414
-UR  - http://dx.doi.org/10.1109/gcwkshps45667.2019.9024414
-TI  - Massive MU-MIMO-OFDM Uplink with Direct RF-Sampling and 1-Bit ADCs
-T2  - 2019 IEEE Globecom Workshops (GC Wkshps)
-AU  - Jacobsson, Sven
-AU  - Aabel, Lise
-AU  - Coldrey, Mikael
-AU  - Sezgin, Ibrahim Can
-AU  - Fager, Christian
-AU  - Durisi, Giuseppe
-AU  - Studer, Christoph
-PY  - 2019
-DA  - 2019/12
+DA  - 2016/05
 PB  - IEEE
-ER  - 
-TY  - JOUR
-DO  - 10.1109/access.2021.3101159
-UR  - http://dx.doi.org/10.1109/access.2021.3101159
-TI  - Massive MIMO Channel Estimation With Low-Resolution Spatial Sigma-Delta ADCs
-T2  - IEEE Access
-AU  - Rao, Shilpa
-AU  - Seco-Granados, Gonzalo
-AU  - Pirzadeh, Hessam
-AU  - Nossek, Josef A.
-AU  - Swindlehurst, A. Lee
-PY  - 2021
-PB  - Institute of Electrical and Electronics Engineers (IEEE)
-SP  - 109320-109334
-VL  - 9
-SN  - 2169-3536
-ER  - 
-TY  - JOUR
-DO  - 10.1155/s1110865704403023
-UR  - http://dx.doi.org/10.1155/s1110865704403023
-TI  - Downlink Channel Estimation in Cellular Systems with Antenna Arrays at Base Stations Using Channel Probing with Feedback
-T2  - EURASIP Journal on Advances in Signal Processing
-AU  - Biguesh, Mehrzad
-AU  - Gershman, Alex B.
-PY  - 2004
-DA  - 2004/08/19
-PB  - Springer Science and Business Media LLC
-IS  - 9
-VL  - 2004
-SN  - 1687-6180
 ER  - 

@@ -61,6 +61,6 @@ def writeTxtByNameList(name_list, filename):
 
 
 if __name__ == '__main__':
-    nameList, searchList = getFileNameAndSearchName("./paperTitle.txt")
-    writeTxtByNameList(nameList, "./titleOutput.txt")
-    writeTxtByNameList(searchList, "./SearchOutput.txt")
+    nameList, searchList = getFileNameAndSearchName("txt/paperTitle.txt")
+    writeTxtByNameList(nameList, "txt/titleOutput.txt")
+    writeTxtByNameList(searchList, "txt/SearchOutput.txt")
